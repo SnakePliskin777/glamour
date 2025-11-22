@@ -14,5 +14,5 @@ glamour site
 - https://learn.microsoft.com/ru-ru/dotnet/csharp/language-reference/proposals/csharp-9.0/records#with-expression
 - https://learn.microsoft.com/en-us/dotnet/standard/unsafe-code/best-practices#glossary
 
-**other***
+***other***
 https://ericlippert.com/2009/05/18/foreach-vs-foreach/
