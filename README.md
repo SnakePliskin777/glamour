@@ -16,10 +16,10 @@ glamour site
 - https://learn.microsoft.com/en-us/dotnet/standard/unsafe-code/best-practices#glossary
 
 ***other***
-https://ericlippert.com/2009/05/18/foreach-vs-foreach/
+- https://ericlippert.com/2009/05/18/foreach-vs-foreach/
 
 ***example***
-https://github.com/gandjustas/pg-bootcamp2026-demo
+- https://github.com/gandjustas/pg-bootcamp2026-demo
 
 ***wpf***
-https://github.com/2Xpro-pop/Brave
+- https://github.com/2Xpro-pop/Brave
