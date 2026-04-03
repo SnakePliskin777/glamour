@@ -1,9 +1,10 @@
 # glamour
 glamour site
 
-***Маркдаун инфо***
+***markdown***
 - https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://gist.github.com/Jekins/2bf2d0638163f1294637
+- https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/
 
 ***CommunityToolkit***
 - https://learn.microsoft.com/ru-ru/dotnet/communitytoolkit/mvvm/
@@ -16,3 +17,9 @@ glamour site
 
 ***other***
 https://ericlippert.com/2009/05/18/foreach-vs-foreach/
+
+***example***
+https://github.com/gandjustas/pg-bootcamp2026-demo
+
+***wpf***
+https://github.com/2Xpro-pop/Brave
