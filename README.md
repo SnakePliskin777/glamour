@@ -20,6 +20,7 @@ glamour site
 
 ***example***
 - https://github.com/gandjustas/pg-bootcamp2026-demo
+- https://github.com/KOMMEHTATOP/SimpleStoreAPI
 
 ***wpf***
 - https://github.com/2Xpro-pop/Brave
