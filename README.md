@@ -17,6 +17,7 @@ glamour site
 
 ***other***
 - https://ericlippert.com/2009/05/18/foreach-vs-foreach/
+- https://ecode.ozon.tech/archive/2025/talks/20009254-source-generators/
 
 ***example***
 - https://github.com/gandjustas/pg-bootcamp2026-demo
