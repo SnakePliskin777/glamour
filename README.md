@@ -14,6 +14,8 @@ glamour site
 - https://learn.microsoft.com/ru-ru/aspnet/core/fundamentals/servers/yarp/yarp-overview?view=aspnetcore-9.0
 - https://learn.microsoft.com/ru-ru/dotnet/csharp/language-reference/proposals/csharp-9.0/records#with-expression
 - https://learn.microsoft.com/en-us/dotnet/standard/unsafe-code/best-practices#glossary
+- https://learn.microsoft.com/ru-ru/archive/msdn-magazine/2012/december/csharp-the-csharp-memory-model-in-theory-and-practice
+- https://learn.microsoft.com/ru-ru/archive/msdn-magazine/2013/january/csharp-the-csharp-memory-model-in-theory-and-practice-part-2
 
 ***other***
 - https://ericlippert.com/2009/05/18/foreach-vs-foreach/
